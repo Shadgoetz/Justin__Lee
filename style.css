@@ -5,6 +5,4 @@ body {
 
 img{
     width: 500px;
-    display: flex;
-    justify-content: flex-end;
 }
